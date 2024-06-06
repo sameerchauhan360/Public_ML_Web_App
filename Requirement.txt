@@ -1,4 +1,0 @@
-numpy==1.26.4
-pickle-maxin==1.0.2
-streamlit==1.35.0
-scikit-learn==1.5.0
